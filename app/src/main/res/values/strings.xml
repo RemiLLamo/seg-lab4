@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">lab4</string>
+    <string name="address">(Please enter a ZIP code)</string>
+    <string name="name">(Please enter a team name)</string>
+    <string name="teamname">Team Name</string>
+    <string name="teamaddress">Team Address</string>
+    <string name="map">OPEN IN GOOGLE MAPS</string>
+    <string name="load">LOAD FROM PHONE</string>
+    <string name="avatar">Select an Avatar</string>
 </resources>
